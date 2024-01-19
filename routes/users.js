@@ -1,5 +1,5 @@
 const express = require("express")
-const router = express.router()
+const router = express.Router()
 
 // getting data from users
 const users = require("../data/users")
